@@ -1,2 +1,2 @@
 # mail
-mail repo
+mail repository just for demo
